@@ -1,11 +1,8 @@
 <!-- markdownlint-disable MD033 -->
 
-<div align="center">
-  <img src="./assets/banner/banner.jpg" alt="Mussab — GitHub profile banner" width="100%" />
-</div>
+
 
 <br/>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=14&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=%5B+Mussab+·+Full-Stack+Developer+·+Lahore%2C+Pakistan+%5D;%5B+AI+Automation+%7C+SaaS+Builder+%7C+Enterprise+Solutions+%5D+—+open+to+remote+%26+contract;%5B+React+·+Next.js+·+Node.js+·+Python+·+TypeScript+%5D)](https://git.io/typing-svg)
