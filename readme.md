@@ -127,25 +127,25 @@
 
 <h3 align="center">Languages and Tools 🛠</h3>
 
-<p align="center"><strong>Languages</strong><br/>
+<p align="center"><strong>Languages</strong><br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,flutter,py,c,cpp" />
   </a>
 </p>
 
-<p align="center"><strong>Frontend</strong><br/>
+<p align="center"><strong>Frontend</strong><br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite" />
   </a>
 </p>
 
-<p align="center"><strong>Backend & Databases</strong><br/>
+<p align="center"><strong>Backend & Databases</strong><br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,mongodb,postgres,mysql,firebase,sqlite" />
   </a>
 </p>
 
-<p align="center"><strong>AI & Automation</strong><br/>
+<p align="center"><strong>AI & Automation</strong><br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   </a>
@@ -153,13 +153,13 @@
   <img src="https://cdn.simpleicons.org/n8n" height="48" alt="n8n logo" />
 </p>
 
-<p align="center"><strong>DevOps & Cloud</strong><br/>
+<p align="center"><strong>DevOps & Cloud</strong><br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,gcp,aws,cloudflare,linux" />
   </a>
 </p>
 
-<p align="center"><strong>Design & Tools</strong><br/>
+<p align="center"><strong>Design & Tools</strong><br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ps,ai,vscode,postman" />
   </a>
