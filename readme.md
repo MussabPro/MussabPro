@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="./assets/Line.gif" width="100%" />
 
 <p align="center">A creative full-stack developer specializing in modern web applications, AI-powered solutions, and scalable SaaS products. I transform complex problems into elegant, user-friendly software that makes a real impact.</p>
 
@@ -32,7 +32,7 @@
 </p>
 
 <div align="center">
-  <img src="./WhoAmI.png" alt="Who Am I" width="50%" />
+  <img src="./assets/WhoAmI.png" alt="Who Am I" width="100%" />
 </div>
 
 <br/>
@@ -47,7 +47,7 @@
 - 🎨 &nbsp; I care about **clean code**, **great UX**, and **creative problem-solving**.
 - ☕ &nbsp; _Great software lives at the intersection of clean code, user empathy, and creativity._
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="./assets/Line.gif" width="100%" />
 
 <h3 align="center">Featured Projects 🚀</h3>
 
@@ -123,7 +123,7 @@
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="./assets/Line.gif" width="100%" />
 
 <h3 align="center">Languages and Tools 🛠</h3>
 
@@ -165,7 +165,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="./assets/Line.gif" width="100%" />
 
 <div align="center">
   <table border="0">
@@ -182,7 +182,7 @@
   </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="./assets/Line.gif" width="100%" />
 
 <h3 align="center">Streak Stats 🔥</h3>
 
@@ -190,7 +190,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MussabPro&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="./assets/Line.gif" width="100%" />
 
 
 
