@@ -189,6 +189,15 @@
 
 <img src="./assets/Line.gif" width="100%" />
 
+<h3 align="center">日本語 Progress 🇯🇵</h3>
+
+<div align="center">
+  <a href="https://mussabpro.github.io/DuoStats" target="_blank">
+    <img src="https://mussabpro.github.io/DuoStats/card.svg" alt="DuoLingo Japanese Progress" />
+  </a>
+</div>
+
+<img src="./assets/Line.gif" width="100%" />
 
 
 
@@ -206,3 +215,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=MussabPro&color=58A6FF&style=for-the-badge&label=Profile+Views)
 
 </div>
+
+<img src="./assets/Line.gif" width="100%" />
+
