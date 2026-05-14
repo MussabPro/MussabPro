@@ -11,7 +11,8 @@
 
 <br/>
 
-<img src="./assets/Line.gif" width="100%" />
+<hr color="#58A6FF"/>
+
 
 <p align="center">A creative full-stack developer specializing in modern web applications, AI-powered solutions, and scalable SaaS products. I transform complex problems into elegant, user-friendly software that makes a real impact.</p>
 
@@ -44,7 +45,7 @@
 - 🎨 &nbsp; I care about **clean code**, **great UX**, and **creative problem-solving**.
 - ☕ &nbsp; _Great software lives at the intersection of clean code, user empathy, and creativity._
 
-<img src="./assets/Line.gif" width="100%" />
+<hr color="#58A6FF"/>
 
 <h3 align="center">Featured Projects 🚀</h3>
 
@@ -120,7 +121,7 @@
   </tr>
 </table>
 
-<img src="./assets/Line.gif" width="100%" />
+<hr color="#58A6FF"/>
 
 <h3 align="center">Languages and Tools 🛠</h3>
 
@@ -162,7 +163,7 @@
   </a>
 </p>
 
-<img src="./assets/Line.gif" width="100%" />
+<hr color="#58A6FF"/>
 
 <div align="center">
   <table border="0">
@@ -179,7 +180,7 @@
   </table>
 </div>
 
-<img src="./assets/Line.gif" width="100%" />
+<hr color="#58A6FF"/>
 
 <h3 align="center">Streak Stats 🔥</h3>
 
@@ -187,7 +188,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MussabPro&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<img src="./assets/Line.gif" width="100%" />
+<hr color="#58A6FF"/>
 
 <h3 align="center">日本語 Progress 🇯🇵</h3>
 
@@ -197,7 +198,7 @@
   </a>
 </div>
 
-<img src="./assets/Line.gif" width="100%" />
+<hr color="#58A6FF"/>
 
 
 
@@ -216,5 +217,5 @@
 
 </div>
 
-<img src="./assets/Line.gif" width="100%" />
+<hr color="#58A6FF"/>
 
