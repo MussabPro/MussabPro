@@ -196,6 +196,8 @@
   <a href="https://mussabpro.github.io/DuoStats" target="_blank">
     <img src="https://mussabpro.github.io/DuoStats/card.svg" alt="DuoLingo Japanese Progress" />
   </a>
+
+  
 </div>
 
 <hr color="#58A6FF"/>
